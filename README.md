@@ -1,6 +1,6 @@
 # sicp
 
-This repository holds my programming assignments from [Structure and Interpretation of Computer Programs][1]
+[Structure and Interpretation of Computer Programs][1]
 
 [programming assignments][2]
 
