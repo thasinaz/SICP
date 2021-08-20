@@ -1,8 +1,8 @@
 # sicp
 
-[Structure and Interpretation of Computer Programs][1]
+[Structure and Interpretation of Computer Programs][]
 
-[programming assignments][2]
+[Programming Assignments][]
 
-[1]:https://mitpress.mit.edu/sites/default/files/sicp/index.html
-[2]:https://mitpress.mit.edu/sites/default/files/sicp/psets/index.html
+[Structure and Interpretation of Computer Programs]: https://mitpress.mit.edu/sites/default/files/sicp/index.html
+[Programming Assignments]: https://mitpress.mit.edu/sites/default/files/sicp/psets/index.html
